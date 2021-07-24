@@ -8,8 +8,3 @@ render() {
       </div>
     );
 }
-
-// 2- way
-renderTags() {
-    if (this.state.tags.length === 0) return <p>There are no tags!</p>;
-}
