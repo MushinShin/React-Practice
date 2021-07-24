@@ -1,3 +1,5 @@
+//Everything i did until class 8 included!!!
+
 import React, { Component } from "react";
 
 class Counter extends Component {
